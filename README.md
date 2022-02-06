@@ -1,0 +1,2 @@
+# zinit
+Zinit Legacy
